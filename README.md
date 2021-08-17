@@ -13,6 +13,6 @@ A collection of the best active discounts available at various Usenet news group
 * [$29.95 - 1 Year Unlimited - 100 Connections](https://newsgroup.direct/member/billing/?planid=195)
 ## Blocks
 #### NewsGroupDirect
-* [$15 - 6 TB Block - 100 Connections](https://newsgroup.direct/member/billing/?planid=199)
 * [$12 - 3 TB Block - 100 Connections](https://newsgroup.direct/member/billing/?planid=200)
+* [$15 - 6 TB Block - 100 Connections](https://newsgroup.direct/member/billing/?planid=199)
 
