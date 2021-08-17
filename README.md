@@ -1,2 +1,9 @@
 # usenetdeals
-Usenet Specials : Discount Usenet Access. Below is a list of the best Usenet deals and promotions. The tables below summarize the price of each plan.
+A collection of active discounts available at various Usenet news groups.
+
+
+# Blocks
+
+#### NewsGroupDirect
+* [$15 - 6 TB](Blockhttps://newsgroup.direct/member/billing/?planid=199&rfsn=6009847.cc9c5c)
+  * 
