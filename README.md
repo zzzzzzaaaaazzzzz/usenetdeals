@@ -14,7 +14,7 @@ A collection of the best active discounts available at various Usenet news group
 * [$29.95 - 1 Year Unlimited - 100 Connections](http://newsgroup.direct/member/billing/?planid=195)
 
 #### Newshosting.com
-* [$35.88 - 1 Year Unlimited - 55 Connections](https://www.newshosting.com/best-deal/)
+* [$35.88 - 1 Year Unlimited - 55 Connections + VPN](https://www.newshosting.com/best-deal/)
 
 
 ## Blocks
