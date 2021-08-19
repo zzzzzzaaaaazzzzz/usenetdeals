@@ -16,6 +16,9 @@ A collection of the best active discounts available at various Usenet news group
 #### Newshosting.com
 * [$35.88 - 1 Year Unlimited - 55 Connections + VPN](https://www.newshosting.com/best-deal/)
 
+#### Newsdemon.com
+
+* [$1 - 1 Month 50GB - 50 Connections + VPN](https://members.newsdemon.com/billinginfo.php?pricepointid=20201150&lang=us)
 
 ## Blocks
 #### NewsGroupDirect
