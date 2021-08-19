@@ -19,7 +19,7 @@ A collection of the best active discounts available at various Usenet news group
 #### Newsdemon.com
 
 * [$1 - 1 Month 50GB - 50 Connections + VPN](https://members.newsdemon.com/billinginfo.php?pricepointid=20201150)
-* [$32.29 - 1 Year Unlimited - 100 Connections](https://members.newsdemon.com/billinginfo.php?pricepointid=202003011)
+* [$32.29 - 1 Year Unlimited - 100 Connections + VPN](https://members.newsdemon.com/billinginfo.php?pricepointid=202003011)
 ## Blocks
 #### NewsGroupDirect
 * [$12 - 3 TB Block - 100 Connections](http://newsgroup.direct/member/billing/?planid=200)
