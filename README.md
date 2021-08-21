@@ -23,17 +23,17 @@ A collection of the best active discounts available at various Usenet news group
 
 #### TheCubeNet.com
 
-* [$34 - 1 Year Unlimited - 50 Connections](https://www.thecubenet.com/clients/cart.php?lk=221&skip=1&pid=153)
-* [$30 - 1 Year Unlimited - 50 Connections](https://www.thecubenet.com/clients/cart.php?lk=221&skip=1&pid=158)
+* [$34 - 1 Year Unlimited - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=153&lk=221)
+* [$30 - 1 Year Unlimited - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=158&lk=221)
 * 
 ## Blocks
 
 #### TheCubeNet.com
-* [$0.50 - 50 GB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?lk=221&skip=1&pid=155)
-* [$1 - 100 GB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?lk=221&skip=1&pid=156)
-* [$7 - 1 TB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?lk=221&skip=1&pid=174)
-* [$12 - 2 TB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?lk=221&skip=1&pid=150)
-* [$25 - 5 TB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?lk=221&skip=1&pid=160)
+* [$0.50 - 50 GB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=155&lk=221)
+* [$1 - 100 GB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=156&lk=221)
+* [$7 - 1 TB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=174&lk=221)
+* [$12 - 2 TB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=150&lk=221)
+* [$25 - 5 TB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=160&lk=221)
 
 #### NewsGroupDirect
 * [$12 - 3 TB Block - 100 Connections](http://newsgroup.direct/member/billing/?planid=200)
