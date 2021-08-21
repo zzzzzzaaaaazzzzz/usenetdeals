@@ -25,7 +25,7 @@ A collection of the best active discounts available at various Usenet news group
 
 * [$34 - 1 Year Unlimited - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=153&lk=221)
 * [$30 - 1 Year Unlimited - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=158&lk=221)
-* 
+
 ## Blocks
 
 #### TheCubeNet.com
