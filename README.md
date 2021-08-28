@@ -4,7 +4,7 @@ A collection of the best active discounts available at various Usenet news group
 **Note: I am not affiliated with any of these sites and do not make any claims or guarantees**
 
 ## Provider
-#### NewsGroupDirect.com
+#### [NewsGroupDirect.com](http://newsgroup.direct)
 
 * [$3.99 - 1 Month Unlimited - 100 Connections](http://newsgroup.direct/member/billing/?planid=183)
 * [$12 - 6 Month Unlimited - 100 Connections](http://newsgroup.direct/member/billing/?planid=225)
@@ -35,7 +35,7 @@ A collection of the best active discounts available at various Usenet news group
 * [$12 - 2 TB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=150&lk=221)
 * [$25 - 5 TB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=160&lk=221)
 
-#### NewsGroupDirect
+#### [NewsGroupDirect.com](http://newsgroup.direct)
 * [$12 - 3 TB Block - 100 Connections](http://newsgroup.direct/member/billing/?planid=200)
 * [$15 - 6 TB Block - 100 Connections](http://newsgroup.direct/member/billing/?planid=199)
 
