@@ -35,6 +35,9 @@ A collection of the best active discounts available at various Usenet news group
 * [$12 - 2 TB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=150&lk=221)
 * [$25 - 5 TB Block - 50 Connections](https://www.thecubenet.com/clients/cart.php?skip=1&pid=160&lk=221)
 
+#### [Usenetprime.com](https://usenetprime.com)
+* [$8 - 1 TB Block - 50 Connections](https://portal.usenetprime.com/cart.php?a=add&pid=26)
+
 #### [NewsGroupDirect.com](http://newsgroup.direct)
 * [$12 - 3 TB Block - 100 Connections](http://newsgroup.direct/member/billing/?planid=200)
 * [$15 - 6 TB Block - 100 Connections](http://newsgroup.direct/member/billing/?planid=199)
